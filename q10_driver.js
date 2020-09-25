@@ -298,8 +298,8 @@ Q10.pkgEncode = function(type, opt, idx, cnt, data) {
 	return pkg;
 };
 
-Q10.VENDOR_ID = 10737; //0x29f1;
-Q10.Q10_ID = 16625; //0x40f1;
+Q10.VENDOR_ID = 0;
+Q10.Q10_ID = 0;
 
 Q10.P_DETECT = 0x10;
 Q10.P_SET_VOLT = 0x22;
